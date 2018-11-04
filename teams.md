@@ -403,3 +403,19 @@ We are going to use gatsby, react, and material-ui to build out the ui.  Then we
 * [GitHub URL](https://jamstack-hackathon-project.netlify.com/)
 
 ***
+
+# Project Name
+### Less than 240 Characters describing what we're building. Include external links here if desired
+* Teammates:
+    - Rebecca Yip
+    - Julie Jonak
+    - Nicky Chen 
+    - Roland Canuto
+    - Kyran McCann
+    - Tommy Collison
+
+* Seeking Teammates: No
+* [https://github.com/recipeshopper](https://github.com/recipeshopper)
+* Project Name Recipe Shopper
+
+***
