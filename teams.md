@@ -416,6 +416,17 @@ We are going to use gatsby, react, and material-ui to build out the ui.  Then we
 
 * Seeking Teammates: No
 * [https://github.com/recipeshopper](https://github.com/recipeshopper)
-* Project Name Recipe Shopper
+* Project Name: Recipe Shopper
+
+### Project Q&A:
+1. What are you going to build?  
+A recipe shopper app that pulls in ingredient lists for recipes you'd like to make and returns a shopping list.
+
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+We're planning on implementing a Fauna API.
+
+3. What is your plan to execute this idea?  
+Our team is split between front- and back-end development, creating and styling the app.
+
 
 ***
